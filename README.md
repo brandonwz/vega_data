@@ -1,2 +1,2 @@
 # vega_data
-Remote location for Vega data + Json 
+Place for vega data for layout generation
